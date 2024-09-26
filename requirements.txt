@@ -1,2 +1,6 @@
 streamlit
 maidr
+seaborn 
+matplotlib 
+numpy 
+pandas

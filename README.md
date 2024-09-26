@@ -15,5 +15,7 @@ A simple Streamlit app template for you to modify!
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run app.py
    ```
+
+We have included dummy data in the repository to practice with, please feel free to use your own data (under 2000 MB).
